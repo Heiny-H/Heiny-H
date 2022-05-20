@@ -15,8 +15,9 @@
   <img align="center" alt="H-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="H-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
    <img align="center" alt="H-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />        
-   <img align="center" alt="H-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/823347699793133589/977316057436004402/ezgif.com-gif-maker.gif">
+   <img align="center" alt="H-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /
+  
+     
 </div>
   
  ##
@@ -28,6 +29,7 @@
   <a href ="https://www.linkedin.com/in/hellendesanti/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>         
      <a href = "https://api.whatsapp.com/send/?phone=5511968179550&text&app_absent=0" target= "_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
 
+  ![Snake animation](https://github.com/rafaballerini/Heiny-H/blob/output/github-contribution-grid-snake.svg)
   </div>
   
   
