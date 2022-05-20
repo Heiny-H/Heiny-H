@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <a href="https://github.com/Heiny-H">
   
@@ -16,12 +16,10 @@
   <img align="center" alt="H-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
    <img align="center" alt="H-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />        
    <img align="center" alt="H-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /
-  
-     
+   
 </div>
   
- ##
-
+##
 <div>
   <a href="https://instagram.com/__hellenzinha.__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/HellenzinhaH#9771" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -29,7 +27,8 @@
   <a href ="https://www.linkedin.com/in/hellendesanti/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>         
      <a href = "https://api.whatsapp.com/send/?phone=5511968179550&text&app_absent=0" target= "_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
 
-  ![Snake animation](https://github.com/rafaballerini/Heiny-H/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Heiny-H/Heiny-H/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
   
   
