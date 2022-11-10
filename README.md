@@ -6,7 +6,7 @@ Shall we program together?
 
 Computer Engineering student 
 
-Web developer
+Web and IOS developer 💜
 
 <a href="https://github.com/Heiny-H">
   
