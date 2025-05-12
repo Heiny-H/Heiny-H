@@ -23,8 +23,7 @@ AI and IOS developer 💜
 </div>
   
 ##
-<div>
-  <a href ="https://www.linkedin.com/in/hellendesanti/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"                                                                              target="_blank"></a>          
+<div>         
   <a href="https://picasion.com/"><img src ="https://i.picasion.com/pic92/c825e1ca3c1dd20cbce231fe4077e037.gif" width="150" height="115" border="0" align="right" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 
   ![Snake animation](https://github.com/Heiny-H/Heiny-H/blob/output/github-contribution-grid-snake.svg)
