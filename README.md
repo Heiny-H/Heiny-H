@@ -1,14 +1,9 @@
 ![Mobile Engineer Banner](./mobile-engineer-banner.png)
 
-<!-- Right Side Coding Image -->
+<!-- Right Side GIF -->
 <div>
-  <img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="right" width="35%" src="./gif.jasmine.gif" alt="Jasmine GIF">
 </div>
-
-<!-- Header Name -->
-*Mobile Engineer | iOS • Cross-platform • Software Engineering • AI*
-
-<br />
 
 <!-- Start Intro -->
 <p align="left">
@@ -28,8 +23,6 @@ I have experience with iOS development and cross-platform mobile solutions, comb
   <img src="https://komarev.com/ghpvc/?username=Heiny-H&label=Profile%20views&color=6A5ACD&style=for-the-badge&logo=star" alt="Profile views" />
 </p>
 
----
-
 <!-- Technologies and Tools Section -->
 <h2 align="center">Tᴇᴄʜɴᴏʟᴏɢɪᴇs & Tᴏᴏʟs</h2>
 
@@ -48,7 +41,6 @@ I have experience with iOS development and cross-platform mobile solutions, comb
 </p>
 
 <br />
-
 <h3 align="left">Current Learning</h3>
 
 <ul align="left">
@@ -58,46 +50,13 @@ I have experience with iOS development and cross-platform mobile solutions, comb
   <li>Applying Artificial Intelligence concepts to mobile products and digital solutions.</li>
 </ul>
 
-<h3 align="left">Latest Articles</h3>
-
-<ul align="left">
-  <li><a href="COLE_AQUI_LINK_DO_ARTIGO_1">Mobile development, architecture and user experience</a></li>
-  <li><a href="COLE_AQUI_LINK_DO_ARTIGO_2">Artificial Intelligence applied to digital products</a></li>
-  <li><a href="COLE_AQUI_LINK_DO_ARTIGO_3">Software Engineering and scalable mobile solutions</a></li>
-</ul>
-
-<br />
-<br />
-
----
-
-<!-- Trophies Section -->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-
-<p align="center">
-  <a href="https://github.com/Heiny-H">
-    <img src="https://github-profile-trophy.vercel.app/?username=Heiny-H&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<br />
-
----
-
 <!-- Github Stats Table -->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Heiny-H">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Heiny-H&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="100%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Heiny-H">
@@ -106,30 +65,9 @@ I have experience with iOS development and cross-platform mobile solutions, comb
       </p>
     </td>
   </tr>
-
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Heiny-H">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heiny-H&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Heiny-H/NOME_DO_REPOSITORIO">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Heiny-H&repo=NOME_DO_REPOSITORIO&theme=tokyonight&hide_border=true" alt="Latest Project" />
-        </a>
-      </p>
-    </td>
   </tr>
 </table>
-
 <br />
-
----
 
 <!-- Contribution Graph -->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
@@ -140,22 +78,18 @@ I have experience with iOS development and cross-platform mobile solutions, comb
 
 <br />
 
----
-
-<!-- Thought of the Day -->
+<!-- Dynamic Quote card updates everyday -->
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-<!--START_SECTION:daily_quote-->
+<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-  <i>"Technology becomes powerful when it solves real problems with clarity, purpose and human experience."</i>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=Creativity%20is%20intelligence%20having%20fun.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
-<!--END_SECTION:daily_quote-->
+<!--ENDS_HERE_QUOTE_CARD-->
 
 ---
-
 <!-- Connect With Me -->
 <h2 align="center">Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
-
 <p align="center">
   <a href="www.linkedin.com/in/hellendesanti">
     <img src="https://img.shields.io/badge/LinkedIn-Hellen Santi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
