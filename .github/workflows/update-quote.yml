@@ -1,33 +1,33 @@
-name: Update Daily Quote
+name: Update Quote
 
 on:
+  workflow_dispatch:  #Manually trigger the workflow
   schedule:
-    - cron: "0 15 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: '30 6 * * *'  # Schedule daily at 12:01 AM Indian Time
 
 jobs:
-  update-quote:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: 14
 
-      - name: Update quote
-        run: node scripts/update-quote.js
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update Quote
+        run: node update-quote.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "Update daily quote"
+          git -c user.name='Heiny-H' -c user.email='hellen.heiny@gmail.com' commit -m "Update README with daily quote" -a
           git push
