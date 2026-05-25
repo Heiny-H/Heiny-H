@@ -59,9 +59,7 @@ I have experience with iOS development and cross-platform mobile solutions, comb
     <td width="100%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Heiny-H">
-          <img align="center" src="https://streak-stats.demolab.com?user=Heiny-H&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-        </a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Heiny-H&theme=buefy-dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
       </p>
     </td>
   </tr>
@@ -71,12 +69,16 @@ I have experience with iOS development and cross-platform mobile solutions, comb
 
 <!-- Contribution Graph -->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<!-- Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heiny-H/Heiny-H/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Heiny-H/Heiny-H/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Heiny-H/Heiny-H/output/github-snake.svg" />
+  </picture>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heiny-H&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br />
+---
 
 <!-- Dynamic Quote card updates everyday -->
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
