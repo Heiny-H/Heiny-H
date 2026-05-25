@@ -70,6 +70,7 @@ I have experience with iOS development and cross-platform mobile solutions, comb
 <!-- Contribution Graph -->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <!-- Snake Animation -->
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heiny-H/Heiny-H/output/github-snake-dark.svg" />
