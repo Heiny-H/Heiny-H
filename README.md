@@ -135,11 +135,13 @@ I have experience with iOS development and cross-platform mobile solutions, comb
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leo%20Tolstoy&quote=Respect%20was%20invented%20to%20cover%20the%20empty%20place%20where%20love%20should%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexander%20Pope&quote=Blessed%20is%20he%20who%20expects%20nothing%2C%20for%20he%20shall%20never%20be%20disappointed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
