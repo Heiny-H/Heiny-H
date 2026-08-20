@@ -172,11 +172,13 @@ I have experience with iOS development and cross-platform mobile solutions, comb
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=It%20is%20in%20the%20heart%20that%20makes%20a%20man%20rich.%20He%20is%20rich%20according%20to%20what%20he%20is%2C%20not%20according%20to%20what%20he%20has.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=I%20alone%20cannot%20change%20the%20world%2C%20but%20I%20can%20cast%20a%20stone%20across%20the%20waters%20to%20create%20many%20ripples.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
