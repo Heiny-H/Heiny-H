@@ -173,11 +173,13 @@ I have experience with iOS development and cross-platform mobile solutions, comb
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mother%20Teresa&quote=I%20alone%20cannot%20change%20the%20world%2C%20but%20I%20can%20cast%20a%20stone%20across%20the%20waters%20to%20create%20many%20ripples.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Kamal%20Ravikant&quote=No%20matter%20how%20smart%20we%20may%20think%20we%20are%2C%20no%20matter%20how%20committed%20we%20are%20to%20our%20truth%2C%20we%20can%20lose%20our%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
