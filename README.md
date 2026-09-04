@@ -185,11 +185,13 @@ I have experience with iOS development and cross-platform mobile solutions, comb
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=A%20man%20is%20great%20not%20because%20he%20hasn't%20failed%3B%20a%20man%20is%20great%20because%20failure%20hasn't%20stopped%20him.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Harvey&quote=Don't%20hate%20the%20player.%20Change%20the%20game.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
