@@ -240,11 +240,13 @@ I have experience with iOS development and cross-platform mobile solutions, comb
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alfred%20Adler&quote=It%20is%20very%20obvious%20that%20we%20are%20not%20influenced%20by%20'facts'%20but%20by%20our%20interpretation%20of%20the%20facts.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Osho&quote=Don't%20seek%2C%20don't%20search%2C%20don't%20ask%2C%20don't%20knock%2C%20don't%20demand%20-%20relax.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
