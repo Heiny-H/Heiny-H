@@ -247,11 +247,13 @@ I have experience with iOS development and cross-platform mobile solutions, comb
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=Doing%20what%20you%20love%20is%20the%20cornerstone%20of%20having%20abundance%20in%20your%20life.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yoko%20Ono&quote=You%20may%20think%20I'm%20small%2C%20but%20I%20have%20a%20universe%20inside%20my%20mind.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
