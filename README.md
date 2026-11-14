@@ -256,11 +256,13 @@ I have experience with iOS development and cross-platform mobile solutions, comb
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jeffrey%20Gitomer&quote=Change%20is%20not%20a%20four%20letter%20word...but%20often%20your%20reaction%20to%20it%20is!&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Woody%20Allen&quote=Men%20learn%20to%20love%20the%20woman%20they%20are%20attracted%20to.%20Women%20learn%20to%20become%20attracted%20to%20the%20man%20they%20fall%20in%20love%20with.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
